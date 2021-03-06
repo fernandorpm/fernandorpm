@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/47700024/109900732-9acc5680-7c76-11eb-9d0c-daf0d7aae5ff.png" alt="Fernando Marques, Full Stack Developer and Unity Developer">
+<img src="./images/header.png" alt="Fernando Marques, Full Stack Developer and Unity Developer">
 
 <p align="center">
 <a href="https://www.hackerrank.com/frpm1001" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
@@ -35,5 +35,5 @@
 </p>
 
 
-![Fernando R P Marques](https://user-images.githubusercontent.com/47700024/109873602-b91d5c80-7c4c-11eb-9fa8-cd513fead366.png)
+<img src="./images/footer.png" alt="Fernando Marques, Full Stack Developer and Unity Developer">
 
