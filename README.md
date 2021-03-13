@@ -1,7 +1,7 @@
 <img src="./images/header.png" alt="Fernando Marques, Full Stack Developer and Unity Developer">
 
 <p align="center">
-<a href="https://www.hackerrank.com/frpm1001" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+<a href="https://www.hackerrank.com/fernandorpm" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
 <a href="https://play.google.com/store/apps/dev?id=8164326238474168734" target="_blank"><img src="https://img.shields.io/badge/Google Play-414141.svg?&style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
 <a href="https://github.com/fernandorpm" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
 </p>
