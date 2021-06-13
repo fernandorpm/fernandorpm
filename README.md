@@ -1,4 +1,4 @@
-<img src="./images/header.png" alt="Fernando Marques, Full Stack Developer and Unity Developer">
+<img src="./images/header.jpg" alt="Fernando Marques, Project Manager | Software Engineer">
 
 <p align="center">
 <a href="https://www.hackerrank.com/fernandorpm" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
@@ -6,8 +6,10 @@
 <a href="https://github.com/fernandorpm" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
 </p>
 <h3>Hello There! I am Fernando,</h3>
-<p>A passionate Software Developer who develops awesome games and 3D projects on his free time :sunglasses: You can check my game <a href="https://play.google.com/store/apps/details?id=com.Burstnauts.IdleCaster" target="_blank">Idle Caster on Google Play</a>! My skillset includes:</p>
+<p>A passionate Software Engineer studying Project Management with Google! My skillset includes:</p>
 <ul>
+  <li>Project Management</li>
+  <li>Scrum, Cascade, Lean, & Six Sigma Methodologies</li>
   <li>Javascript & Node.js</li>
   <li>React & Redux</li>
   <li>Ruby & Ruby on Rails</li>
@@ -20,11 +22,6 @@
 
 <p>Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> :rocket:</p>
 
-<!--
-<p align="center">
-[![My stats](https://github-readme-stats.vercel.app/api?username=fernandorpm&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-</p>
--->
 
 <h2>Let's get in touch!</h2>
 <p align="center">
@@ -35,5 +32,4 @@
 </p>
 
 
-<img src="./images/footer.png" alt="Fernando Marques, Full Stack Developer and Unity Developer">
 
